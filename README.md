@@ -4,10 +4,6 @@ A full-featured Expense Tracker built using the **MERN Stack (MongoDB, Express, 
 
 ---
 
-## 🚀 Live Demo
-
-![App Demo](link-to-your-gif-or-image)
-
 ---
 
 ## 📌 Features
