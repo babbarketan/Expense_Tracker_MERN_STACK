@@ -3,7 +3,7 @@
 A full-featured Expense Tracker built using the **MERN Stack (MongoDB, Express, React, Node.js)**. Easily manage and visualize your income and expenses with a beautiful, responsive interface and powerful data insights.
 
 ---
-
+![App Demo](im.gif)
 ---
 
 ## 📌 Features
